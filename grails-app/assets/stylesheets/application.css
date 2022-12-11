@@ -1,0 +1,152 @@
+#tablei{
+    margin-left:490px;
+}
+.formu {
+
+height: 400px}
+.formshow   {
+margin-left: 170px;
+
+}
+.fiel {
+height: 10px;
+    border: 0px;
+}
+.fimage{
+    margin-left:400px;
+
+}
+fieldset  {
+margin-left: 460px;
+ width:390px;
+    height: auto;
+
+    color: black;
+
+}
+#dropContainer {
+    height: 70px;
+
+}
+.save1 {
+    cursor: pointer;
+    border-radius: 5em;
+    color: #fff;
+    background: darkblue;
+    border: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+
+    font-size: 13px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);}
+.save  {
+    cursor: pointer;
+    border-radius: 5em;
+    color: #fff;
+    background: darkblue;
+    border: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 35%;
+    font-size: 13px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);}
+table {
+height: 100px;width: 80%}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 150px;
+    text-align: center;
+    font-family:"fantasy";
+
+}
+.t1 {
+margin-left: 70px ;
+
+    }
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #DDD;
+
+}
+thead{
+    background: darkblue;
+    color: white;
+    margin-left: 100px;
+}
+
+tr:hover {background-color: #D6EEEE;}
+h1{
+    text-align: center;
+}
+#type {
+    width: 50%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+    margin-left: 90px;
+    color: black;
+}
+.pass {
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+#idadd {
+margin-left: 100px;
+}
+.un  {
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.form__label {
+    position: absolute;
+    top: 0;
+    display: block;
+    transition: 0.2s;
+    font-size: 1rem;
+
+}
+
+
+
